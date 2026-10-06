@@ -3,3 +3,4 @@
 # 格式: Surge RULE-SET
 IP-CIDR,198.23.187.155/32
 DOMAIN-SUFFIX,litepan.wybcs.work
+DOMAIN-SUFFIX,embycc.wybcs.work
