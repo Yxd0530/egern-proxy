@@ -1,3 +1,4 @@
 # Egern 代理规则集
 # 大陆需挂节点访问的线路域名，由 Muse 自动维护
 # 格式: Surge RULE-SET
+DOMAIN-SUFFIX,xn--inrt1kowsjwjkrdbt8b.ibukifuko.tech
